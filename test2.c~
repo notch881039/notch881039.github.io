@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void){
+  printf("aaaaa\n");
+  printf("bbbbb\n");
+  printf("xxxxx\n");
+  
+  return 0;
+}
