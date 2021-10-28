@@ -1,2 +1,2 @@
 #define VERSION_MAIN 188
-#define VERSION_EXTRA "6"
+#define VERSION_EXTRA "7"
