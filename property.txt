@@ -35,3 +35,6 @@ make_folder_name=v1.936
 clone_folder=source
 build_success=失敗
 make_folder_name=v1.937
+clone_folder=source
+build_success=失敗
+make_folder_name=v1.938
