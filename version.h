@@ -1,2 +1,2 @@
-#define VERSION_MAIN 53632
-#define VERSION_EXTRA ".rferfre.3223f.fff"
+#define VERSION_MAIN 145
+#define VERSION_EXTRA "6"
