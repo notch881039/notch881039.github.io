@@ -1,0 +1,9 @@
+target=normal
+version=
+git_repository=git@github.com:notch881039/notch881039.github.io.git
+send_to_list=himarinn294712@live.jp
+upload_folder_id=1-DdxAONQvEE2DfmMoVFMnALexo1Nu9tu
+model=tractor
+branch=master
+classification=normal1
+model=tractor
