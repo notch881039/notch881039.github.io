@@ -1,2 +1,2 @@
-#define VERSION_MAIN 195
-#define VERSION_EXTRA "4"
+#define VERSION_MAIN 1A4
+#define VERSION_EXTRA "8"
