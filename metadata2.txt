@@ -1,0 +1,5 @@
+{
+"title": "リリースノート.txt",
+"mimeType": "plain/text",
+"parents": [{"id": "1JWCgrPj7URnykP7tJUzILsFxDRS3SXkC"}]
+}
