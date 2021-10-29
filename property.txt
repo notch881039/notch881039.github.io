@@ -7,3 +7,5 @@ model=tractor
 branch=master
 classification=normal1
 model=tractor
+build_success=失敗
+make_folder_name=v1.928
