@@ -9,3 +9,5 @@ classification=normal1
 model=tractor
 build_success=失敗
 make_folder_name=v1.928
+build_success=失敗
+make_folder_name=v1.929
